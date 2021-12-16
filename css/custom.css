@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+h1 {
+    font-size:65px;
+    color:white;
+    font-family: 'Arvo', serif;
+	text-align:center;
+}
+a {
+    text-decoration:none;
+}
+.navigation {
+    display:flex;
+    text-align:center;
+}
+li a { color:white;
+    text-decoration: none;
+}
+li {
+    display:inline;
+}
+ul {
+  padding-left:520px;  
+}
+li a:hover {
+    color:black;
+}
+a {
+    padding:10px;
+}
